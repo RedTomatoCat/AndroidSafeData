@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="safe_data_bt" type="id"/>
+    <item name="data_store_bt" type="id"/>
+
+</resources>

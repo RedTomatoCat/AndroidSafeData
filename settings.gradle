@@ -1,0 +1,3 @@
+rootProject.name='SafeData'
+include ':app'
+include ':core'
